@@ -179,4 +179,4 @@ Editar el método crear_pista() en SistemaCarreras para cambiar:
 
 - **Carlos Andrés Suárez Torres** → [Carlos23Andres](https://github.com/Carlos23Andres)  
 
-- **Saira Sharid Sanabria Muñoz** → [sharito202](https://github.com/sharito202)Este es el tercer punto
+- **Saira Sharid Sanabria Muñoz** → [sharito202](https://github.com/sharito202)
